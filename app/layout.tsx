@@ -41,6 +41,7 @@ export default function RootLayout({
           <NavBar />
           {children}
           <ToastContainer />
+          {/* Hello */}
         </ThemeProvider>
       </body>
     </html>
